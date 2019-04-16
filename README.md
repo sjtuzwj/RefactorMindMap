@@ -1,7 +1,10 @@
 # RefactorMindMap
 
 ## Introduction
-Mind Map of Refactoring， tooltips to reuse in the development
+重构：改善既有代码的设计  
+读书笔记    
+Mind Map of Refactoring， tooltips to reuse in the development    
+改善代码中的坏味道
 
 ## Link
 
