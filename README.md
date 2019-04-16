@@ -1,6 +1,7 @@
 # RefactorMindMap
+
 ## Introduction
-重构：改善既有代码的设计读书笔记思维导图。目前涉及具体的重构方法的动机、实现、结果。
+Mind Map of Refactoring， tooltips to reuse in the development
 
 ## Link
 
