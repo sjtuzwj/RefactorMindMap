@@ -9,10 +9,6 @@
 
 https://www.processon.com/view/link/5cb5262ee4b059e209f987a9
 
-## Sample
-
-![所有重构手法](/重构.jpg)
-
 ## 第二版安利
 
 ### 为什么决定再版《重构》？
